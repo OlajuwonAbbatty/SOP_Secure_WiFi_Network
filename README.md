@@ -69,7 +69,7 @@ Use freshly roasted coffee beans and grind them to a medium consistency suitable
 ### 3. Boil Water  
 Boil fresh, filtered water using a kettle. The ideal water temperature for brewing coffee is between 195°F and 205°F (90-96°C). Water that is too hot or too cold can negatively affect extraction and taste.
 
-<img width="700" height="900" alt="image" src="https://github.com/user-attachments/assets/39baac13-e2a8-4e66-9c02-6ecb8cc71650" />
+
  *Figure 3: Kettle heating water to the perfect temperature*
 
 ---
@@ -86,7 +86,8 @@ Place the coffee grounds in the filter basket. Pour hot water into the coffee ma
 ### 5. Serve and Enjoy  
 Once brewing is complete, pour the coffee into a cup immediately to enjoy its optimal flavor and aroma. Add milk or sugar as preferred.
 
-![Serve and Enjoy](images/serve_coffee.jpg)  
+<img width="700" height="900" alt="image" src="https://github.com/user-attachments/assets/39baac13-e2a8-4e66-9c02-6ecb8cc71650" />
+
 *Figure 5: Freshly brewed coffee served in a cup*
 
 ---

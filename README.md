@@ -52,7 +52,7 @@ This document outlines the step-by-step process for brewing a perfect cup of cof
 ### 1. Prepare Equipment  
 Clean the coffee maker and filter basket to remove any residues. This prevents off-flavors and ensures a clean taste. Use a paper filter or reusable mesh filter depending on your preference.
 
-![Prepare Equipment](images/prepare_equipment.jpg)  
+(https://github.com/OlajuwonAbbatty/SOP_Secure_WiFi_Network/blob/main/Clean%20and%20ready%20coffee%20maker%20with%20filter%20basket.jpg?raw=true)  
 *Figure 1: Clean and ready coffee maker with filter basket*
 
 ---

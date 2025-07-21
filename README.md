@@ -60,7 +60,8 @@ Clean the coffee maker and filter basket to remove any residues. This prevents o
 ### 2. Measure Coffee Grounds  
 Use freshly roasted coffee beans and grind them to a medium consistency suitable for drip brewing. Measure approximately 1 to 2 tablespoons (about 10-12 grams) of coffee per 6 ounces of water. Using a kitchen scale improves accuracy.
 
-![Measure Coffee Grounds](images/measure_coffee_grounds.jpg)  
+<img width="474" height="270" alt="image" src="https://github.com/user-attachments/assets/b4ef1bd3-0c8b-40d2-bfa6-425306fc6764" />
+
 *Figure 2: Measuring coffee grounds with kitchen scale*
 
 ---

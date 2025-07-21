@@ -94,7 +94,7 @@ Once brewing is complete, pour the coffee into a cup immediately to enjoy its op
 ---
 
 ## Review and Editing  
-This document was reviewed for clarity and accuracy by Olajuwon abbatty & Ilunga Josue on 2025-07-21. Suggested improvements were incorporated.
+This document was reviewed for clarity and accuracy by Olajuwon Abbatty & Ilunga Josue on 2025-07-21. Suggested improvements were incorporated.
 
 ---
 

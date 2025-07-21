@@ -60,7 +60,6 @@ Clean the coffee maker and filter basket to remove any residues. This prevents o
 ### 2. Measure Coffee Grounds  
 Use freshly roasted coffee beans and grind them to a medium consistency suitable for drip brewing. Measure approximately 1 to 2 tablespoons (about 10-12 grams) of coffee per 6 ounces of water. Using a kitchen scale improves accuracy.
 
-<img width="474" height="270" alt="image" src="https://github.com/user-attachments/assets/b4ef1bd3-0c8b-40d2-bfa6-425306fc6764" />
 
 *Figure 2: Measuring coffee grounds with kitchen scale*
 
@@ -69,15 +68,16 @@ Use freshly roasted coffee beans and grind them to a medium consistency suitable
 ### 3. Boil Water  
 Boil fresh, filtered water using a kettle. The ideal water temperature for brewing coffee is between 195°F and 205°F (90-96°C). Water that is too hot or too cold can negatively affect extraction and taste.
 
-![Boil Water](images/boil_water.jpg)  
-*Figure 3: Kettle heating water to the perfect temperature*
+<img width="700" height="900" alt="image" src="https://github.com/user-attachments/assets/39baac13-e2a8-4e66-9c02-6ecb8cc71650" />
+ *Figure 3: Kettle heating water to the perfect temperature*
 
 ---
 
 ### 4. Brew Coffee  
 Place the coffee grounds in the filter basket. Pour hot water into the coffee maker’s reservoir and start the brewing cycle. The water will drip through the grounds, extracting flavor and aroma, and collecting in the pot below.
 
-![Brew Coffee](images/brew_coffee.jpg)  
+<img width="474" height="270" alt="image" src="https://github.com/user-attachments/assets/b4ef1bd3-0c8b-40d2-bfa6-425306fc6764" />  
+
 *Figure 4: Coffee brewing through drip coffee maker*
 
 ---
